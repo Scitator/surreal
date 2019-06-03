@@ -38,6 +38,13 @@ Surreal algorithms can be deployed at various scales. It can run on a single lap
 
 ## Benchmarking
 
+Dear SurrealAI,
+
+I am working on reproducible RL frameworks comparison.
+Are there any instructions to reproduce this benchmark?
+
+Thanks for the framework!
+
 - Scalability of Surreal-PPO with up to 1024 actors on Surreal Robotics Suite.
 
 ![](.README_images/scalability-robotics.png)
